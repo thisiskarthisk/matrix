@@ -6,7 +6,7 @@ A simple Matrix-style digital rain animation using HTML, CSS, and optionally Jav
 
 ## 🌐 Demo
 
-🔗 **Live Preview**: [thisiskarthisk.github.io/matrix](https://thisiskarthisk.github.io/matrix/)
+🔗 **Live Preview**: [Matrix](https://thisiskarthisk.github.io/matrix/)
 
 ---
 
